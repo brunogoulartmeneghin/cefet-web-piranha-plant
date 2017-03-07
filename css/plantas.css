@@ -1,0 +1,33 @@
+body {
+  /* imagem de fundo para a página */
+  background-image: url(../imagens/fundo.png);
+
+  /* faz o conteúdo da página começar a 10%
+    da largura lateralmente */
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+h1 {
+  color: limegreen;       /* cor do texto: verde */
+  font-family: "Times New Roman", 28px;
+  text-align: center;   /* left, right, justify */
+}
+
+h2 {
+  color: limegreen;       /* cor do texto: verde */
+  font-family: "Times New Roman", 24px;
+  text-align: center;   /* left, right, justify */
+}
+
+p {
+  color: black;       /* cor do texto: verde */
+  font-family: "Arial", sans-serif;
+  text-align: center;   /* left, right, justify */
+}
+
+img {
+	border: 4px solid limegreen;
+}
