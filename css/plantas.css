@@ -13,21 +13,28 @@ body {
 h1 {
   color: limegreen;       /* cor do texto: verde */
   font-family: "Times New Roman", 28px;
-  text-align: center;   /* left, right, justify */
+  text-align: justify;   /* left, right, justify */
 }
 
 h2 {
   color: limegreen;       /* cor do texto: verde */
   font-family: "Times New Roman", 24px;
-  text-align: center;   /* left, right, justify */
+  text-align: justify;   /* left, right, justify */
 }
 
 p {
   color: black;       /* cor do texto: verde */
   font-family: "Arial", sans-serif;
-  text-align: center;   /* left, right, justify */
+  text-align: justify;   /* left, right, justify */
 }
 
 img {
 	border: 4px solid limegreen;
+}
+
+table {
+  border: 2px solid silver;
+  text-align: center;
+  font-family: "Arial", sans-serif;
+  width: 600px;
 }
